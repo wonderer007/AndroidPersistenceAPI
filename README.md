@@ -1,7 +1,7 @@
 # AndroidPersistenceAPI
 AndroidPersistenceAPI (APA)
 
-Inspiring by JPA (Java Persistence API), i thought of exposing similar sort of thing for Android as well. Because maintaining a database and then all the operations via sqlite usually takes time. Besides it would be a great ease for the developer to just create a model with few annoatations and simply uses database operations. 
+Inspired by JPA (Java Persistence API), i thought of exposing similar sort of thing for Android as well. Because maintaining a database and then all the operations via sqlite usually takes time. Besides it would be a great ease for the developer to just create a model with few annoatations and simply uses database operations. 
 
 The libaray expects assets/apa.properties file containing following information:
 ```
